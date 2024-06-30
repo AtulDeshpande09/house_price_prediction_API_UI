@@ -33,10 +33,15 @@ This project involves developing a machine learning model to predict house price
 
 3. **Run the Flask API**:
     ```bash
-    python api.py
+    python house_price_api.py
     ```
 
 4. **Run the User Interface**:
+    ```bash
+    python house_price_test.py
+    ```
+
+5. **Run for Graphical User Interface**:
     ```bash
     python ui.py
     ```
@@ -68,10 +73,10 @@ This project involves developing a machine learning model to predict house price
 3. Click on "Get Prediction" to see the predicted house price.
 
 ## Contributing
-Contributions are welcome. Please submit a pull request or open an issue to discuss your changes.
+Contributions are welcome.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 ## Acknowledgments
 - Special thanks to the open-source community for the tools and libraries used in this project.
