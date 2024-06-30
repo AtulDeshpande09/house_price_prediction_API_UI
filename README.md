@@ -22,7 +22,7 @@ This project involves developing a machine learning model to predict house price
 ### Steps
 1. **Clone the repository**:
     ```bash
-    (https://github.com/AtulDeshpande09/house_price_prediction_API_UI.git)
+    git clone https://github.com/AtulDeshpande09/house_price_prediction_API_UI.git
     cd house_price_prediction_API_UI
     ```
 
