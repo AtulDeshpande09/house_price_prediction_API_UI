@@ -22,8 +22,8 @@ This project involves developing a machine learning model to predict house price
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/house-price-prediction.git
-    cd house-price-prediction
+    (https://github.com/AtulDeshpande09/house_price_prediction_API_UI.git)
+    cd house_price_prediction_API_UI
     ```
 
 2. **Install dependencies**:
